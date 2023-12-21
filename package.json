@@ -1,0 +1,14 @@
+{
+  "name": "foods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "scripts": {
+    "build-css": "tailwindcss -i ./src/styles/main.css -o ./dist/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
