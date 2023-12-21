@@ -11,4 +11,4 @@
 `npm start`
 
 
-![Responsive Desktop website](src/assets/site.png)
+![Responsive Desktop website](./src/assets/site.png)
