@@ -9,3 +9,6 @@
 ### Step 2
 
 `npm start`
+
+
+![Responsive Desktop website](src/assets/site.png)
